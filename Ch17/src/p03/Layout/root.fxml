@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <HBox prefHeight="40.0" prefWidth="207.0">
+         <children>
+            <TextField prefHeight="48.0" prefWidth="200.0" />
+            <Button mnemonicParsing="false" prefHeight="40.0" prefWidth="77.0" text="확인" />
+         </children>
+      </HBox>
+   </children>
+</AnchorPane>
